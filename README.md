@@ -44,6 +44,12 @@ hame_energy/HMJ-2/device/<MAC>/ctrl    # Antwort
 
 `<MAC>` ist ein Beispielplatzhalter, keine echte Gerätekennung.
 
+## Weitere Energieprojekte
+
+- [Envertech Local](https://github.com/SyntaxSorcerer7/envertech-local) – lokale Home-Assistant-Integration für Envertech-Mikrowechselrichter
+- [Solar Flow Card](https://github.com/SyntaxSorcerer7/home-assistant-solar-flow-card) – HACS-Dashboard-Karte für PV-, Batterie-, Haus- und Netzenergieflüsse
+- [Projektübersicht](https://github.com/SyntaxSorcerer7) – Einstiegspunkt für alle Solar- und Home-Assistant-Projekte
+
 ## Tests
 
 Die Tests verwenden simulierte MQTT-Clients und benötigen weder Broker noch Gerät:
