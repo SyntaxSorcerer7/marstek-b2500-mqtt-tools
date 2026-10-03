@@ -1,0 +1,6 @@
+.env
+.mqtt_devices.json
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
